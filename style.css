@@ -56,7 +56,7 @@ a {
 }
 
 .bg {
-    background: linear-gradient(rgba(255, 255, 255, 0.493), rgba(255, 255, 255, 0.932), rgba(255, 255, 255)), url(../images/flock-of-birds-917494.jpg) no-repeat;
+    background: linear-gradient(rgba(255, 255, 255, 0.493), rgba(255, 255, 255, 0.932), rgba(255, 255, 255)), url(images/flock-of-birds-917494.jpg) no-repeat;
     background-position: center;
 
     background-size: cover;
@@ -440,7 +440,7 @@ main {
 }
 
 #about .img-box {
-    background: linear-gradient(-40deg, rgba(11, 22, 117, 0.712), rgba(219, 51, 146, 0.568)), url(../images/toronto-skyline.jpg);
+    background: linear-gradient(-40deg, rgba(11, 22, 117, 0.712), rgba(219, 51, 146, 0.568)), url(images/toronto-skyline.jpg);
     width: 50%;
     background-size: cover;
     background-position: center;

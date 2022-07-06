@@ -470,6 +470,10 @@ main {
   filter: grayscale(1);
 }
 
+.gl{
+    max-width: 120px;
+}
+
 #career .img-box img:hover {
   opacity: 1;
   filter: grayscale(0);

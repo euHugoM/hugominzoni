@@ -13,7 +13,7 @@ function getDrink() {
     .then((data) => {
       console.log(data.drinks[0]);
       document.querySelector("h2").innerText = data.drinks[0].strDrink;
-      document.querySelector("img").src = data.drinks[0].strDrinkThumb;
+      document.querySelector(".img-drink").src = data.drinks[0].strDrinkThumb;
       document.querySelector(".instr").innerText =
         data.drinks[0].strInstructions;
     })
